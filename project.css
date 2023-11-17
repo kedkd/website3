@@ -1,0 +1,66 @@
+header{
+    text-align: center;
+    padding-top: 120px;
+    background-image: url(https://opwiki.org/images/836px-Strawhat_pirates.JPG);
+    margin: 0;
+    height: 100%;
+    padding:10px;
+}
+main{
+    
+    text-align: center;
+    height: 100%;
+    font-size: 50px;
+    margin: 0;
+    background: linear-gradient(to bottom right, blue, pink);
+}
+.left{
+    padding: 10px;
+    
+}
+.right{
+    
+    padding:10px;
+    padding-top: 120.24px;
+}
+.container{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+div{
+    height: 100%;
+    width: 1000px;
+}
+.f_left{
+    width: 30%;
+    float: left;
+    text-align: center;
+    background-color: blueviolet;                                                                                                                                                                   
+}
+.f_right{
+    width: 30%;
+    float: left;
+    background-color: blueviolet;
+}
+.f_right img{
+    width: 100px;
+    padding-right: 40px;
+}
+.f_right ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    
+}
+footer{
+    background-color: blueviolet;
+    height: 250px;
+}
+
+.main_text{
+    padding: 10px;
+    color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: #FC0 1px 0 10px;
+}
